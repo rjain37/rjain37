@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hello! 👋
+My name is Rohan Jain and I am a rising junior at the [Illinois Mathematics and Science Academy](https://imsa.edu). You can contact me at me@rohanja.in
 <!--
 **rjain37/rjain37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
