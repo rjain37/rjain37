@@ -1,7 +1,7 @@
 
 ### Hello~~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-My name is Rohan Jain and I am a rising junior at the [Illinois Mathematics and Science Academy](https://imsa.edu). You can contact me at rjain@imsa.edu.
+My name is Rohan Jain and I am a rising freshman at [Carnegie Mellon University School of Computer Science](https://www.cs.cmu.edu/). You can contact me at rohanjai@andrew.cmu.edu.
 
 
 
