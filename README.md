@@ -5,9 +5,9 @@ My name is Rohan Jain and I am a rising freshman at [Carnegie Mellon University 
 
 
 
-### More about my coding life
+<!-- ### More about my coding life
 
 ![rjain37's github stats](https://github-readme-stats.vercel.app/api?username=rjain37&count_private=true&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rjain37&theme=dark)](https://git.io/streak-stats)
+[//]: <> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rjain37&theme=dark)](https://git.io/streak-stats) -->
 
